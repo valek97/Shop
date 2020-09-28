@@ -106,9 +106,9 @@ D:\Shop-MVC\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.re
 D:\Shop-MVC\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Shop-MVC\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Shop-MVC\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
-D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
 D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
 D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+D:\Shop-MVC\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
